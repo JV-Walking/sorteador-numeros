@@ -1,2 +1,2 @@
 # sorteador-numeros
-Aprendendo JavaScript
+Aprendendo JavaScript para Front-End.
